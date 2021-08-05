@@ -1,0 +1,26 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">Pritesh Compose</string>
+    <string name="alert_message">Coming soon!</string>
+    <string name="menu_car">Car</string>
+
+    <!-- Bottom menu items-->
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="notifications">Notifications</string>
+    <string name="user">User</string>
+
+    <!-- Home screen-->
+    <string name="home_title">Pritesh Compose</string>
+    <string name="search_hint">Search anything here</string>
+    <string name="popular">Popular</string>
+    <string name="categories">Categories</string>
+    <!-- Content description-->
+    <string name="cd_banner_image">Banner Image</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_category_image">Category Image</string>
+
+    <!-- Orders-->
+    <string name="past_orders">Past Orders</string>
+    <string name="wishlist">Wishlist</string>
+</resources>
